@@ -14,3 +14,4 @@ To do:
 1) More grafana metrics
 2) Easier deployment process on a clean cloud server
 3) Independent container monitoring, automated pod deployment with kubernetes
+123
